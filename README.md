@@ -1,7 +1,5 @@
 # Pac-Man using Reinforcement Learning 🕹️
 
-Check out the full website [here](public/138_HW3_Pac-Man_Harry_Li.pdf)
-
 ![Screenshot](public/screenshot.png)
 
 Built using [Svelte](https://svelte.dev/) and [TypeScript](https://www.typescriptlang.org/) 🛠️
